@@ -1,0 +1,410 @@
+@media all and (max-width:5000px){
+           .sidenav {
+	display: none;
+}
+} 
+
+@media only screen and (max-width: 1991px) and (min-width: 1400px) {
+    .privicy_text p {
+	font-size: 12px;
+
+}
+       .sidenav {
+	display: none;
+}
+}
+@media only screen and (max-width: 1399px) and (min-width: 1200px) {
+       .sidenav {
+	display: none;
+}
+}
+@media only screen and (max-width: 1199px) and (min-width: 992px) {
+       .sidenav {
+	display: none;
+}
+}
+
+@media all and (max-width:991px) {
+    .hero_headding h1 {
+        font-size: 31px;
+    }
+
+    .srvice_item {
+        width: 100%;
+    }
+
+    .video_area h2 {
+        text-align: center;
+        padding: 126px 6px 136px;
+    }
+
+    .pricing_item.padding_new {
+        padding-top: 44px;
+        margin-top: 64px;
+    }
+
+    .privicy_btn {
+        justify-content: center;
+        align-items: center;
+    }
+
+    .faq_heading h1 {
+        padding: 32px 2px;
+    }
+
+    .contact_img img {
+        width: 30%;
+        height: auto;
+        margin: 0 auto;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .mani_faq_area {
+        padding: 0px 0px;
+    }
+
+    .contact_heading {
+        text-align: center;
+    }
+
+    .main_footer_area {
+        text-align: center;
+    }
+
+    .copyright {
+        text-align: center;
+        display: flex;
+        justify-content: center;
+    }
+
+    .payment {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .privicy_text p {
+        font-size: 13px;
+    }
+
+    .privicy_text h4 {
+        font-size: 18px;
+    }
+
+    .header li a {
+        padding: 15px 17px;
+    }
+
+    .header li:nth-child(3) a {
+        padding: 12px 20px;
+    }
+
+    .header li:nth-child(4) a {
+        padding: 12px 20px;
+    }
+
+    .mani_faq_area {
+        padding: 0px 0px;
+        margin: 50px 0px;
+    }
+
+    .privicy_right {
+        margin-top: 25px;
+    }
+
+    .company_logo_area {
+        width: 100%;
+        margin: 0 auto;
+        padding: 38px 0px 0px;
+        display: flex;
+        justify-content: center;
+    }
+
+    .company_logo {
+        text-align: center;
+        margin-top: 20px;
+    }
+
+    .company_logo a img {
+        width: 80%;
+    }
+    .sidenav {
+	display: none;
+}
+    .footer_heading {
+	padding-bottom: 25px;
+	margin-top: 10%;
+}
+    .copyright_section {
+
+	text-align: center;
+}
+    .terms_area ul {
+	align-items: center;
+}
+    .copyright_area p {
+
+
+
+	margin-bottom: 15px;
+}
+}
+
+@media all and (max-width:767px) {
+        .sidenav {
+	display: block;
+}
+    .sinup_btn ul li a {
+        padding: 5px 13px;
+    }
+
+    .hero_headding h1 {
+        line-height: 42px;
+        padding: 10px 0px 9px;
+    }
+
+    .hero_details {
+        background: #fff;
+        padding: 50px 21px;
+        border-radius: 7px;
+    }
+
+    .header li:nth-child(3) a {
+        color: #777777;
+        padding: 0px 0px;
+        background: none;
+        border-radius: 7px;
+        margin-left: 0px;
+        font-size: 18px;
+        padding: 8px 20px;
+    }
+
+    .header li:nth-child(4) a {
+        color: #777777;
+        padding: 0px 0px;
+        background: none;
+        border-radius: 7px;
+        margin-left: 0px;
+        font-size: 18px;
+        padding: 8px 20px;
+    }
+
+    .header li a {
+        font-size: 18px;
+        padding-right: 0px;
+        padding: 8px 20px;
+    }
+
+    .header li:hover a {
+        background: #70CEE7;
+        display: block;
+        color: #fff;
+        border-radius: 7px;
+    }
+
+    .header .logo {
+        font-size: 0;
+        padding: 10px 0px;
+    }
+    .header .menu-icon {
+	display: none;
+}
+    #main{
+    display: inline-block;
+}
+    .menu{
+        display: none;
+        
+    }
+   .header {
+	position: relative;
+	padding: 15px 0px;
+}
+    .nav_icon span {
+
+	position: absolute;
+	top: 20%;
+	right: 0%;
+
+}
+    .header .logo {
+
+	padding: 0px 0px;
+}
+    .res_menu {
+	padding: 100px;
+}
+    
+}
+
+@media only screen and (max-width: 766px) and (min-width: 600px) {
+    .hero_headding h1 {
+        font-size: 25px;
+    }
+}
+
+@media all and (max-width:577px) {
+    .contact_area {
+        padding: 26px 0px;
+    }
+
+    .pricing_item_area {
+        padding: 10px;
+    }
+
+    .pricing_item button {
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0 auto;
+    }
+
+    .hero_social_icon ul li {
+        padding: 15px 18px;
+    }
+    .res_menu {
+	padding:100px 88px;
+}
+}
+
+@media all and (max-width:480px) {
+    .responsive_sinup {
+        display: block;
+    }
+
+    .sinup_btn {
+        display: none;
+    }
+
+    .hero_headding h1 {
+        font-size: 26px;
+    }
+
+    .count_details p {
+        font-size: 19px;
+    }
+
+    .video_text h1 {
+        font-size: 26px;
+    }
+
+    .video_area h2 {
+        text-align: center;
+        padding: 126px 6px 136px;
+    }
+
+    .faq_heading h1 {
+        font-size: 24px;
+    }
+
+    .contact_heading h1 {
+        font-size: 38px;
+    }
+
+    .contact_heading p {
+        font-size: 16px;
+        line-height: 27px;
+    }
+
+    .form_group textarea {
+        height: 140px;
+    }
+
+    .sub_btn input {
+        width: 100%;
+        padding: 20px 30px;
+    }
+
+    .privicy_btn button a {
+        padding: 9px 10px;
+    }
+
+    .copyright {
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        padding: 15px 0px;
+    }
+
+    .hero_social_icon ul li {
+        padding: 15px 10px;
+    }
+    .res_menu {
+	padding: 100px 47px;
+}
+    .newsletter input {
+
+	padding: 15px 10px 11px;
+}
+    .service_heading h2 {
+	font-size: 21px;
+
+}
+        .copyright_area p {
+
+	font-size: 14px;
+
+	margin-bottom: 15px;
+}
+}
+
+@media all and (max-width:375px) {
+    .logo img {
+        width: 159px;
+        height: 55px;
+    }
+
+    .hero_headding h1 {
+        font-size: 21px;
+        line-height: 26px;
+    }
+
+    .count_details h3 {
+        font-size: 21px;
+    }
+
+    .count_details p {
+        font-size: 17px;
+    }
+
+    .video_text h1 {
+        font-size: 23px;
+    }
+
+    .faq_heading h1 {
+        font-size: 23px;
+        padding: 42px 10px;
+    }
+
+    .hero_social_icon ul li {
+        padding: 9px 5px;
+    }
+
+    .hero_text p {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .res_menu {
+	padding: 100px 9px;
+}
+    .terms_area ul li a {
+	font-size: 14px;
+
+	padding: 2px 15px;
+}
+    .copyright_area p {
+	font-size: 12px;
+	margin-bottom: 15px;
+}
+}
+@media all and (max-width:355px){
+    .newsletter input {
+	padding: 15px 4px 11px;
+        font-size: 14px;
+}
+}
+
+@media all and (max-width:320px) {}
